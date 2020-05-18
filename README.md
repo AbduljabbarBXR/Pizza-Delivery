@@ -1,4 +1,4 @@
-# Marios Pizza
+# Marioz Pizza
 #### This project is for Marioz Pizza Delivery 
 #### By **Abduljabbar Abdulghani **
 
